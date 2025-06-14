@@ -1,0 +1,9 @@
+C:/Users/PVS/Downloads/Vyshnavi/ram.v {1 {vlog -work work -stats=none C:/Users/PVS/Downloads/Vyshnavi/ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sync_ram
+-- Compiling module tb_sync_ram
+
+Top level modules:
+	tb_sync_ram
+
+} {} {}}
