@@ -16,3 +16,9 @@ DESCRIPTION OF RAM DESIGN: RAM (Random Access Memory) design involves creating m
 TOOLS USED:Hardware Description Languages (HDLs), Simulation Tools, Synthesis Tools, CAD (Computer-Aided Design) Software.
 
 APPLICATIONS: Cache Memory, Main Memory, Embedded Systems, FPGA Implementation.
+
+![Image](https://github.com/user-attachments/assets/13afab3b-126e-4384-bdc2-cb5b0021547a)
+
+![Image](https://github.com/user-attachments/assets/16926759-fa1d-4512-a963-0d89a2938600)
+
+![Image](https://github.com/user-attachments/assets/854f10b1-0466-4fdd-bac5-ba994047103e)
